@@ -1,0 +1,7 @@
+warps:
+  darkzone:
+    messages:
+      player: []
+      global: []
+    serverCommands:
+      - 'bc {name} has warped to Darkzone!'

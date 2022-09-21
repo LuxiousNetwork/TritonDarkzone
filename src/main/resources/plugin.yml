@@ -1,0 +1,7 @@
+name: TritonDarkzone
+version: ${project.version}
+main: com.kamikazejamplugins.tritondarkzone.TritonDarkzone
+description: Triton Darkzone modifications
+load: POSTWORLD
+authors: [KamikaeJAM_YT]
+depend: [FactionsKore]
