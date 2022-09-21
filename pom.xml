@@ -78,6 +78,7 @@
             <groupId>com.kamikazejamplugins</groupId>
             <artifactId>kamicommon</artifactId>
             <version>1.0.8</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 </project>
